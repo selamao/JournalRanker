@@ -1,1 +1,13 @@
+#Maven
 target/
+
+#Eclipse
+.project
+.metadata
+bin/**
+.classpath
+.settings/
+
+#Java
+*.class
+*.jar
